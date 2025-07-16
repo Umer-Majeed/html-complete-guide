@@ -1,0 +1,22 @@
+html-complete-guide/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── 00-Introduction/
+│   └── what-is-html.md
+├── 01-Basics/
+│   ├── html-tags.html
+│   └── headings-paragraphs.html
+├── 02-Intermediate/
+│   ├── forms.html
+│   └── tables.html
+├── 03-Advanced/
+│   └── semantic-elements.html
+├── 04-Projects/
+│   └── project-01-basic-portfolio/
+├── resources/
+│   ├── reference-links.md
+│   └── cheat-sheet.pdf
+└── notes/
+    └── learning-log.md
