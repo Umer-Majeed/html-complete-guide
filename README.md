@@ -33,6 +33,6 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin) https://www.linkedin.com/in/mrumarmajeed/
-[![Portfolio] https://www.behance.net/gallery/208715523/Portfolio
-[![GitHub] https://github.com/umer-majeed
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/umer-majeed)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=behance)](https://www.behance.net/gallery/208715523/Portfolio)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/umer-majeed)
