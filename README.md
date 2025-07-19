@@ -12,7 +12,7 @@
 - 🧱 Currently learning **HTML, CSS, and Web Fundamentals**
 - 💼 Open to junior roles and internships in web development
 - 💻 Building a [HTML Learning Repository](https://github.com/umer-majeed/html-complete-guide)
-- 📈 Committed to learning in public and tracking progress
+- 📈 Committed to learning in public & tracking progress
 
 ---
 
