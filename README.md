@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect To Each other
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/umer-majeed)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=behance)](https://www.behance.net/gallery/208715523/Portfolio)
