@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 Web Developer in Progress | 🧠 Learning HTML, CSS, JavaScript<br>
-  🚀 Building projects and sharing my learning journey
+  🚀 Building projects & sharing my learning journey
 </p>
 
 ---
