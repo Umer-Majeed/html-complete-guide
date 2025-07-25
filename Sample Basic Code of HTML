@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- This is our header point where the execution start  -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<!-- this is the body part where the body part is start -->
 <body>
    <h1>Hello Word</h1>
    <h2> This is umer majeed </h2>
-   <h6> This is the first class of HTML By Soni Kurri </h6>
-    
+   <h6> This is the first class of HTML By Soni Kurri </h6
 </body>
 </html>
